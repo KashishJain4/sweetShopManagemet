@@ -1,37 +1,9 @@
 # 🍭 Sweet Shop API Backend
 
-<div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=internet-explorer)](https://incubyte.vinitborad.com)
-[![Test Coverage](https://img.shields.io/badge/Coverage-80%25-success?style=for-the-badge&logo=jest)](#-test-coverage)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#-crafting-tools)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#-deployment)
-[![AI](https://img.shields.io/badge/AI-LangGraph-purple?style=for-the-badge&logo=openai&logoColor=white)](#-crafting-tools)
-[![LangGraph](https://img.shields.io/badge/LangGraph-Agent-orange?style=for-the-badge&logo=python&logoColor=white)](#-crafting-tools)
-[![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)](#-crafting-tools)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#-crafting-tools)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-purple?style=for-the-badge&logo=openai&logoColor=white)](#-crafting-tools)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](#-crafting-tools)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#-crafting-tools)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#-crafting-tools)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#-crafting-tools)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#-crafting-tools)
 
-## 🎯 Checkout my craft at: [https://incubyte.vinitborad.com](https://incubyte.vinitborad.com)
 
-</div>
 
-## 🚨 Clarifications
-
-- I dont have used AI to code things, but I have used AI to learn things.
-- I have created higly test converaged backend infrastrcutre. And i would love to follow same also on frontend as i had focued more here on creating funtional ui first due to time constraint.
-- I would love to spend more time to craft more functionalities in this projects like Auth, Email/Push Notifications, Payment Gateway, Analytics, etc.
-
-### 🔗 Complete Project Ecosystem
-This is backend repo of our sweet shop:
-- 🤖 **Chatbot**: Check out [incubyte-project-chatbot](https://github.com/vinitborad/incubyte-project-chatbot) to see our RAG based AI Agent built using LangGraph & OpenAI
-- 🎨 **Frontend**: Check out [incubyte-project-frontend](https://github.com/vinitborad/incubyte-project-frontend) for frontend of sweet shop built using NextJS/React
-- 🔧 **Backend**: This repository (Express.js API with MongoDB)
 
 ## ⚡ Crafting Tools
 
@@ -229,47 +201,9 @@ Given more time, I would love to extend this project with:
 - 🔍 **Advanced Search** with Elasticsearch
 - 📈 **Real-time Analytics** with WebSockets
 
-## 🤝 Contributing
 
-I welcome contributions to make this project even better! Here's how you can help:
 
-### Development Setup
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Make your changes following the coding standards
-4. Write tests for your changes
-5. Ensure all tests pass: `pnpm test`
-6. Commit your changes: `git commit -m 'Add amazing feature'`
-7. Push to the branch: `git push origin feature/amazing-feature`
-8. Open a Pull Request
 
-### Coding Standards
-- Follow existing TypeScript patterns
-- Maintain good test coverage
-- Use meaningful commit messages and comments in code
-- Follow REST API conventions
-
-## 🎉 Acknowledgments
-
-**Big thanks to [Incubyte Consulting LLP](https://incubyte.co) to made me build this beautiful piece of software.**
-
-## 👨‍💻 About the Developer
-
-### 📬 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinitborad)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinitborad)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinitboradofficial@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-**⭐ If you found this project helpful, please give it a star!**
 
 *Built with ❤️ by [Vinit Borad](https://github.com/vinitborad) for [Incubyte](https://incubyte.co)*
 
