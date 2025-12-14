@@ -205,8 +205,5 @@ Given more time, I would love to extend this project with:
 
 
 
-*Built with ❤️ by [Vinit Borad](https://github.com/vinitborad) for [Incubyte](https://incubyte.co)*
-
-**🎯 [View Live Demo](https://incubyte.vinitborad.com) | 🤖 [Try AI Chatbot](https://github.com/vinitborad/incubyte-project-chatbot) | 🎨 [See Frontend](https://github.com/vinitborad/incubyte-project-frontend)**
 
 </div>
